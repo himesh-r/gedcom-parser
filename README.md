@@ -31,8 +31,3 @@ This parser works only for utf-8 encoded files. If any other format is upload th
 Notes
 -----
 Stack class has been added in initializers to keep code clean and use some of its utility methods.
-
-
-License
--------
-Neosoft
